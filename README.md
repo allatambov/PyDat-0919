@@ -26,7 +26,7 @@
 
 Видео-инструкция по работе с тестами в домашних заданиях: [файл ~222 Мб](https://www.dropbox.com/s/4lda21zl80vxcjs/hw-test-instruction.mov?dl=0).
 
-Домашнее задание 1: дедлайн 19 сентября 23:59, [задание](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/homeworks/homework1.ipynb), [ссылка](https://www.dropbox.com/request/GRzu2304eo5fTrPXIx25) для сдачи
+* Домашнее задание 1: дедлайн 19 сентября 23:59, [файл](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/homeworks/homework1.ipynb) с заданием, [ссылка](https://www.dropbox.com/request/GRzu2304eo5fTrPXIx25) для сдачи
 
-Домашнее задание 2: дедлайн 19 сентября 23:59, [задание](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/homeworks/homework2.ipynb), [ссылка](https://www.dropbox.com/request/KM8EZ5WM3oqL85kLyz1h) для сдачи
+* Домашнее задание 2: дедлайн 19 сентября 23:59, [файл](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/homeworks/homework2.ipynb) с заданием, [ссылка](https://www.dropbox.com/request/KM8EZ5WM3oqL85kLyz1h) для сдачи
 
