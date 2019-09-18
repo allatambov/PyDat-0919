@@ -1,9 +1,9 @@
 # Занятие 1
 
-* intro-jupyter: введение в Jupyter и Markdown
-* intro-variables: переменные в Python
-* input-output: ввод и вывод в Python
-* str-python: форматирование строк в Python
+* [intro-jupyter](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/1-introduction/intro-jupyter.ipynb): введение в Jupyter и Markdown
+* [intro-variables](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/1-introduction/intro-variables.ipynb): переменные в Python
+* [input-output](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/1-introduction/input-output.ipynb): ввод и вывод в Python
+* [str-python](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/1-introduction/str-formating.ipynb): форматирование строк в Python
 
 Дополнительно:
 
