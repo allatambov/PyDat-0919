@@ -118,3 +118,39 @@
 [NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro.ipynb
 [NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro.ipynb
 [NotebookApp | INFO] Starting buffering for ff4a943d-5ea7-48cd-99c8-64777b56383c:12b4722ca78147ab86eef95c54cf5e32
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/PyDat-0919
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=9021ebcaf56411421e4691ab5587a7185b914b475ae0e775
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=9021ebcaf56411421e4691ab5587a7185b914b475ae0e775&token=9021ebcaf56411421e4691ab5587a7185b914b475ae0e775
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: dc2111db-9bce-400b-a96f-27f006445897
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dc2111db-9bce-400b-a96f-27f006445897
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/lecture-lists.ipynb
+[NotebookApp | INFO] Starting buffering for dc2111db-9bce-400b-a96f-27f006445897:d48fc78d868642a2b756c44f2b46ad9e
+[NotebookApp | INFO] Kernel started: c8ed5d21-9a7e-4af0-ab00-54f57ee9f6f6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c8ed5d21-9a7e-4af0-ab00-54f57ee9f6f6
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Saving file at /lectures-seminars/2-lists/seminar-intro-solutions.ipynb
+[NotebookApp | INFO] Starting buffering for c8ed5d21-9a7e-4af0-ab00-54f57ee9f6f6:ae6f24219ab74951979cc280146eaaed
