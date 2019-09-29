@@ -4,7 +4,7 @@
 * кортежи и словари: [lecture-tuples-dicts](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/lecture-tuples-dicts.ipynb)
 * семинар по структурам данных и циклу for: [seminar-structures](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/seminar-structures.ipynb)
 * решения семинара: [seminar-structures-solutions](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/seminar-structures-solutions.ipynb)
-* условные конструкции, введение: [if-else-1]()
+* условные конструкции, введение: [if-else-1](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/if-else-1.ipynb)
 
 Дополнительно:
 
