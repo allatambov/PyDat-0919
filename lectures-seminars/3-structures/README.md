@@ -2,6 +2,8 @@
 
 * методы split() и join() для строк: [lecture-split-join](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/lecture-split-join.ipynb)
 * кортежи и словари: [lecture-tuples-dicts](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/lecture-tuples-dicts.ipynb)
+* семинар по структурам данных и циклу for: [seminar-structures](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/seminar-structures.ipynb)
+* решения семинара: [seminar-structures-solutions](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/3-structures/seminar-structures-solutions.ipynb)
 * условные конструкции, введение: [if-else-1]()
 
 Дополнительно:
