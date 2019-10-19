@@ -1,0 +1,44 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/PyDat-0919/lectures-seminars/5-files
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8890/?token=e29feb24a293a19cb7fba65dd8e63639435e47214456a104
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=e29feb24a293a19cb7fba65dd8e63639435e47214456a104&token=e29feb24a293a19cb7fba65dd8e63639435e47214456a104
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook lambda-except-assert.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5d30d87a-dcbc-45c5-b3a1-4423efceb30c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d30d87a-dcbc-45c5-b3a1-4423efceb30c
+[NotebookApp | INFO] Saving file at /lambda-except-assert.ipynb
+[NotebookApp | WARNING] Notebook lambda-except-assert.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 5d30d87a-dcbc-45c5-b3a1-4423efceb30c:41623d88e5e640ed88aedb3982465145
+[NotebookApp | INFO] Copying seminar-functions.ipynb to 
+[NotebookApp | INFO] Kernel started: 9c71469d-2c43-485b-88f8-fd832f336572
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9c71469d-2c43-485b-88f8-fd832f336572
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-functions-solutions.ipynb
+[NotebookApp | INFO] Starting buffering for 9c71469d-2c43-485b-88f8-fd832f336572:488436c266374abc8703f66a58d8e130
+[NotebookApp | INFO] Copying seminar-if-else-while.ipynb to 
+[NotebookApp | INFO] Kernel started: 0d0ed37d-56e6-4b83-a3f9-bfedafffdc05
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0d0ed37d-56e6-4b83-a3f9-bfedafffdc05
+[NotebookApp | INFO] Saving file at /seminar-if-else-while-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-if-else-while-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-if-else-while-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-if-else-while-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-if-else-while-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-if-else-while-solutions.ipynb
+[NotebookApp | INFO] Saving file at /seminar-if-else-while-solutions.ipynb
+[NotebookApp | INFO] Starting buffering for 0d0ed37d-56e6-4b83-a3f9-bfedafffdc05:2ccb00663f9a4277b082d59ef5a6c3fe
+[NotebookApp | WARNING] delete /mytext.txt
+[NotebookApp | INFO] Saving file at /README.md
