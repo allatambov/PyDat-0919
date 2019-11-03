@@ -11,3 +11,5 @@
 * Домашнее задание 5: дедлайн 23 октября 23:59, [файл](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/homeworks/homework5.ipynb) с заданием, [ссылка](https://www.dropbox.com/request/zuSr6LCteA8cpQnO5J8t) для сдачи
 
 * Домашнее задание 6: дедлайн 30 октября, 23:59, [файл](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/homeworks/homework6.ipynb), [ссылка](https://www.dropbox.com/request/Ouh3CTjGdYy2leWKhDSH) для сдачи
+
+* Домашнее задание 7: дедлайн 14 ноября, 23:59, [файл](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/homeworks/homework7.ipynb), [ссылка](https://www.dropbox.com/request/BUXYB1PWK3L5bl3m3tMD) для сдачи
