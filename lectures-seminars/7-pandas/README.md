@@ -1,7 +1,7 @@
-# 23 мая
+# 30 октября
 
-* files_pandas: загрузка данных из Excel и csv [ссылка](https://github.com/allatambov/py-dat19-ap/blob/master/23-05/files_pandas.ipynb))
-* base_pandas: лекция по основам работы с таблицами ([ссылка](https://github.com/allatambov/py-dat19-ap/blob/master/23-05/base_pandas.ipynb))
+* загрузка файлов Excel и csv, основы работы с датафреймами pandas: [pandas-part1](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/7-pandas/pandas-part1.ipynb)
+* группировка и агрегирование данных с pandas: [pandas-part2](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/7-pandas/pandas-part2.ipynb)
 
 Дополнительно:
 
