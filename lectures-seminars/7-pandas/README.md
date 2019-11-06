@@ -1,4 +1,4 @@
-# 30 октября
+# 25 октября и 30 октября
 
 * загрузка файлов Excel и csv, основы работы с датафреймами pandas: [pandas-part1](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/7-pandas/pandas-part1.ipynb)
 * группировка и агрегирование данных с pandas: [pandas-part2](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/7-pandas/pandas-part2.ipynb)
