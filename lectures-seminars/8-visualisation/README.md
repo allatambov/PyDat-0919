@@ -1,4 +1,4 @@
-## 30 октября
+# 30 октября
 
 * [graphs-matplotli](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/8-visualisation/graphs-matplotlib.ipynb)
 * файл T.Рогович по более продвинутому matplotlib: [ссылка](https://github.com/rogovich/2019_POS_Sociology/blob/master/Files/4_Seminar.ipynb)
