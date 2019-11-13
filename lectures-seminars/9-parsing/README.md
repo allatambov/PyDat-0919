@@ -1,4 +1,4 @@
-### 6 ноября
+## 6 ноября
 
 * [lect-html](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/9-parsing/lect-html.ipynb): вводная лекция по html
 * [web-scrape](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/9-parsing/web-scrape.ipynb): веб-скреппинг с requests и BeautifulSoup
