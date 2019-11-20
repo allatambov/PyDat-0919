@@ -1,8 +1,8 @@
 # 13 ноября
 
-* lect-selenium-1: вводная лекция по Selenium
-* lect-selenium-2: библиотека Selenium - продолжение
-* selenium-books: ещё Selenium
+* [lect-selenium-1](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/10-selenium/lect-selenium-1.ipynb): вводная лекция по Selenium
+* [lect-selenium-2](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/10-selenium/lect-selenium-2.ipynb): библиотека Selenium - продолжение
+* [selenium-books](https://nbviewer.jupyter.org/github/allatambov/PyDat-0919/blob/master/lectures-seminars/10-selenium/selenium-books.ipynb): ещё Selenium
 
 Дополнительно:
 
