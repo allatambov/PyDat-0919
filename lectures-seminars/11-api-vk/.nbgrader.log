@@ -1,0 +1,53 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/PyDat-0919/lectures-seminars/11-api-vk
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=77b62060c8a4b87782513001346ac7afe5c1788f15914fcc
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=77b62060c8a4b87782513001346ac7afe5c1788f15914fcc&token=77b62060c8a4b87782513001346ac7afe5c1788f15914fcc
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: d6f1bc56-3704-4079-b41d-dfa96a525de4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d6f1bc56-3704-4079-b41d-dfa96a525de4
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Starting buffering for d6f1bc56-3704-4079-b41d-dfa96a525de4:103593b8e1254c7780d9cc371331dbba
+[NotebookApp | INFO] Kernel restarted: d6f1bc56-3704-4079-b41d-dfa96a525de4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d6f1bc56-3704-4079-b41d-dfa96a525de4
+[NotebookApp | INFO] Restoring connection for d6f1bc56-3704-4079-b41d-dfa96a525de4:103593b8e1254c7780d9cc371331dbba
+[NotebookApp | INFO] Replaying 9 buffered messages
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Kernel interrupted: d6f1bc56-3704-4079-b41d-dfa96a525de4
+[NotebookApp | INFO] Kernel interrupted: d6f1bc56-3704-4079-b41d-dfa96a525de4
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Kernel interrupted: d6f1bc56-3704-4079-b41d-dfa96a525de4
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Saving file at /vk-add.ipynb
+[NotebookApp | INFO] Starting buffering for d6f1bc56-3704-4079-b41d-dfa96a525de4:103593b8e1254c7780d9cc371331dbba
